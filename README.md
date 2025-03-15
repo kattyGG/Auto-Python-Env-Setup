@@ -41,7 +41,7 @@
 如果是首次使用，请运行：
 ```sh
 install_env_v2.bat
-
+```
 
 ### 2️⃣ 启动 Python 运行环境
 
